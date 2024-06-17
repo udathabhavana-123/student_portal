@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+#newRequest{
+	width:137%;
+	border-radius: 0%;
+}
+#new-req{
+	float: right;
+	display: inline-block;
+	margin-right: 7%;
+}
